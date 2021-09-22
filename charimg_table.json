@@ -1,0 +1,36 @@
+{
+	"Character":{
+		"avg_npc":{
+			"avg_npc_229"{
+			"imgkey":"avg_npc_229",
+			"usename":[
+				"storycode":"st_09-01",
+				"name":"号角"
+			],
+			},
+			"avg_npc_238"{
+			"imgkey":"avg_npc_238",
+			"usename":[
+				"storycode":"st_09-01",
+				"name":"凯利上尉"
+			],
+			},
+			"avg_npc_242"{
+			"imgkey":"avg_npc_242"
+			"usename":[
+				"storycode":"st_09-01",
+				"name":"慌张的青年"
+			],
+			},
+		},
+		"avg_num":{
+			"avg_222_bpipe"{
+			"imgkey":"avg_222_bpipe",
+			"usename":[
+				"storycode":"st_09-01",
+				"name":"风笛"
+			],
+			},
+		},
+	}
+}
