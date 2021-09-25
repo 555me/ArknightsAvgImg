@@ -1,36 +1,160 @@
 {
-	"Character":{
-		"avg_npc":{
+	"Character": {
+		"avg_npc": {
+			"avg_npc_089"{
+			"imgkey": "avg_npc_089",
+			"usename": [
+			    "storycode": "main_09-02_end",
+				"name": "干员碎纸机"
+			]
+			},
+			"avg_npc_090"{
+			"imgkey": "avg_npc_090",
+			"usename": [
+			    "storycode": "main_09-02_end",
+				"name": "干员威尔"
+			]
+			},
 			"avg_npc_229"{
-			"imgkey":"avg_npc_229",
-			"usename":[
-				"storycode":"st_09-01",
-				"name":"号角"
-			],
+			"imgkey": "avg_npc_229",
+			"usename": [
+			{
+				"storycode": "st_09-01",
+				"name": "号角"
+			},
+			{
+				"storycode": "main_09-01_beg",
+				"name": "号角"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "号角"
+			}
+			]
 			},
 			"avg_npc_238"{
-			"imgkey":"avg_npc_238",
-			"usename":[
-				"storycode":"st_09-01",
-				"name":"凯利上尉"
-			],
+			"imgkey": "avg_npc_238",
+			"usename": [
+			{
+				"storycode": "st_09-01",
+				"name": "凯利上尉"
+			},
+			{
+				"storycode": "main_09-01_beg"
+				"name": "凯利上尉"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "凯利上尉"
+			}
+			]
+			},
+			"avg_npc_240"{
+			"imgkey": "avg_npc_240",
+			"usename": [
+			{
+			    "storycode": "main_09-02_end",
+				"name": "克雷格"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "克雷格"
+			}
+			]
+			},
+			"avg_npc_241"{
+			"imgkey": "avg_npc_241",
+			"usename": [
+			{
+				"storycode": "main_09-01_beg",
+				"name": "维多利亚士兵"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "维多利亚士兵"
+			}
+			]
 			},
 			"avg_npc_242"{
-			"imgkey":"avg_npc_242"
-			"usename":[
-				"storycode":"st_09-01",
-				"name":"慌张的青年"
-			],
+			"imgkey": "avg_npc_242",
+			"usename": [
+			{
+				"storycode": "st_09-01",
+				"name": "慌张的青年"
 			},
-		},
-		"avg_num":{
+			{
+				"storycode": "main_09-03_beg",
+				"name": "愤怒的男性"
+			}
+			]
+			},
+			"avg_npc_243"{
+			"imgkey": "avg_npc_243",
+			"usename": "[
+			    "storycode": "main_09-03_beg",
+				"name": "悲伤的女性"
+			]
+			},
+			"avg_npc_245"{
+			"imgkey": "avg_npc_245",
+			"usename": [
+			{
+				"storycode": "main_09-01_beg",
+				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-02_end",
+				"name": "Outcast"
+			}
+			]
+			},
+			"avg_npc_248"{
+			"imgkey": "avg_npc_248",
+			"usename": [
+			    "storycode": "main_09-01_beg",
+				"name": "副官希尔"
+			]
+			}
+			},
+		"avg_num": {
 			"avg_222_bpipe"{
-			"imgkey":"avg_222_bpipe",
-			"usename":[
-				"storycode":"st_09-01",
-				"name":"风笛"
-			],
+			"imgkey": "avg_222_bpipe",
+			"usename": [
+			{
+				"storycode": "st_09-01",
+				"name": "风笛"
 			},
+			{
+				"storycode": "main_09-01_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "风笛"
+			}
+			]
+			},
+			"avg_479_sleach_1"{
+			"imgkey": "avg_479_sleach_1",
+			"usename": [
+			{
+			    "storycode": "main_09-02_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "简妮"
+			}
+			]
+			}
 		},
+		"char_num": {
+			"char_013_riop"{
+		    "imgkey": "char_013_riop",
+			"usename": [
+			    "storycode": "main_09-02_end",
+				"name": "干员奥利弗"
+			]
+			}
 	}
 }
