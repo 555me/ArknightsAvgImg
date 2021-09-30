@@ -4,8 +4,14 @@
 			"avg_npc_089"{
 			"imgkey": "avg_npc_089",
 			"usename": [
+			{
 			    "storycode": "main_09-02_end",
 				"name": "干员碎纸机"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "干员碎纸机"
+			}
 			]
 			},
 			"avg_npc_090"{
@@ -13,6 +19,20 @@
 			"usename": [
 			    "storycode": "main_09-02_end",
 				"name": "干员威尔"
+			]
+			},
+			"avg_npc_213"{
+			"imgkey": "avg_npc_213",
+			"usename": [
+			    "storycode": "main_09-04_BEG",
+				"name": "西尔莎"
+			]
+			},
+			"avg_npc_227"{
+			"imgkey": "avg_npc_227",
+			"usename": [
+			    "storycode": "main_09-03_END",
+				"name": "汉密尔顿上校"
 			]
 			},
 			"avg_npc_229"{
@@ -28,6 +48,14 @@
 			},
 			{
 				"storycode": "main_09-03_beg",
+				"name": "号角"
+			},
+			{
+				"storycode": "main_09-03_END",
+				"name": "号角"
+			},
+			{
+				"storycode": "main_09-04_BEG",
 				"name": "号角"
 			}
 			]
@@ -59,6 +87,10 @@
 			{
 				"storycode": "main_09-03_beg",
 				"name": "克雷格"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "克雷格"
 			}
 			]
 			},
@@ -71,6 +103,10 @@
 			},
 			{
 				"storycode": "main_09-03_beg",
+				"name": "维多利亚士兵"
+			},
+			{
+				"storycode": "main_09-03_END",
 				"name": "维多利亚士兵"
 			}
 			]
@@ -85,12 +121,20 @@
 			{
 				"storycode": "main_09-03_beg",
 				"name": "愤怒的男性"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "厨子麦克马丁"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "焦躁的青年"
 			}
 			]
 			},
 			"avg_npc_243"{
 			"imgkey": "avg_npc_243",
-			"usename": "[
+			"usename": [
 			    "storycode": "main_09-03_beg",
 				"name": "悲伤的女性"
 			]
@@ -105,6 +149,10 @@
 			{
 				"storycode": "main_09-02_end",
 				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "Outcast"
 			}
 			]
 			},
@@ -114,8 +162,8 @@
 			    "storycode": "main_09-01_beg",
 				"name": "副官希尔"
 			]
-			}
 			},
+		},
 		"avg_num": {
 			"avg_222_bpipe"{
 			"imgkey": "avg_222_bpipe",
@@ -131,6 +179,14 @@
 			{
 				"storycode": "main_09-03_beg",
 				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-03_END",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "风笛"
 			}
 			]
 			},
@@ -144,10 +200,18 @@
 			{
 				"storycode": "main_09-03_beg",
 				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-03_END",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "简妮"
 			}
 			]
 			}
-		},
+		}
 		"char_num": {
 			"char_013_riop"{
 		    "imgkey": "char_013_riop",
@@ -156,5 +220,6 @@
 				"name": "干员奥利弗"
 			]
 			}
+		}
 	}
 }
