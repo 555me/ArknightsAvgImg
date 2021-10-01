@@ -21,6 +21,27 @@
 				"name": "干员威尔"
 			]
 			},
+			"avg_npc_175"{
+			"imgkey": "avg_npc_175",
+			"usename": [
+			    "storycode": "main_09-04_END",
+				"name": "附庸风雅的女贵族"
+			]
+			},
+			"avg_npc_176"{
+			"imgkey": "avg_npc_176",
+			"usename": [
+			    "storycode": "main_09-04_END",
+				"name": "贪婪的商人"
+			]
+			},
+			"avg_npc_177"{
+			"imgkey": "avg_npc_177",
+			"usename":[
+			    "storycode": "main_09-04_END",
+				"name": "野心勃勃的男爵"
+			]
+			},
 			"avg_npc_213"{
 			"imgkey": "avg_npc_213",
 			"usename": [
@@ -31,8 +52,24 @@
 			"avg_npc_227"{
 			"imgkey": "avg_npc_227",
 			"usename": [
+			{
 			    "storycode": "main_09-03_END",
 				"name": "汉密尔顿上校"
+			},
+			{
+				"storycode": "main_09-04_END",
+				"name": "汉密尔顿上校"
+			}
+			]
+			},
+			"avg_npc_228"{
+			"imgkey": "avg_npc_228",
+			"usename": [
+			    "storycode": "main_09-04_END",
+				"name": [
+				    "？？？",
+					"阿赫茉妮"
+				]
 			]
 			},
 			"avg_npc_229"{
@@ -57,7 +94,21 @@
 			{
 				"storycode": "main_09-04_BEG",
 				"name": "号角"
+			},
+			{
+				"storycode": "main_09-04_END",
+				"name": "号角"
 			}
+			]
+			},
+			"avg_npc_233"{
+			"imgkey": "avg_npc_233",
+			"usename": [
+			    "storycode": "main_09-04_END",
+				"name": [
+				    "？？？",
+					"蔓德拉"
+				]
 			]
 			},
 			"avg_npc_238"{
@@ -68,13 +119,20 @@
 				"name": "凯利上尉"
 			},
 			{
-				"storycode": "main_09-01_beg"
+				"storycode": "main_09-01_beg",
 				"name": "凯利上尉"
 			},
 			{
 				"storycode": "main_09-03_beg",
 				"name": "凯利上尉"
 			}
+			]
+			},
+			"avg_npc_239"{
+			"imgkey": "avg_npc_239",
+			"usename": [
+			    "storycode": "main_09-04_END",
+				"name": "诗人威廉姆斯"
 			]
 			},
 			"avg_npc_240"{
@@ -107,6 +165,10 @@
 			},
 			{
 				"storycode": "main_09-03_END",
+				"name": "维多利亚士兵"
+			},
+			{
+				"storycode": "main_09-04_END",
 				"name": "维多利亚士兵"
 			}
 			]
@@ -162,7 +224,7 @@
 			    "storycode": "main_09-01_beg",
 				"name": "副官希尔"
 			]
-			},
+			}
 		},
 		"avg_num": {
 			"avg_222_bpipe"{
@@ -186,6 +248,10 @@
 			},
 			{
 				"storycode": "main_09-04_BEG",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-04_END",
 				"name": "风笛"
 			}
 			]
