@@ -73,8 +73,14 @@
 			"avg_npc_213"{
 			"imgkey": "avg_npc_213",
 			"usename": [
+			{
 			    "storycode": "main_09-04_BEG",
 				"name": "西尔莎"
+			},
+			{
+				"storycode": "st_09-02",
+				"name": "西尔莎"
+			}
 			]
 			},
 			"avg_npc_227"{
@@ -104,11 +110,17 @@
 			"avg_npc_228"{
 			"imgkey": "avg_npc_228",
 			"usename": [
+			{
 			    "storycode": "main_09-04_END",
 				"name": [
 				    "？？？",
 					"阿赫茉妮"
 				]
+			},
+			{
+				"storycode": "st_09-02",
+				"name": "阿赫茉妮"
+			}
 			]
 			},
 			"avg_npc_229"{
@@ -151,18 +163,30 @@
 			"avg_npc_231"{
 			"imgkey": "avg_npc_231",
 			"usename": [
+			{
 			    "storycode": "main_09-05_BEG",
 				"name": "“领袖”"
+			},
+			{
+				"storycode": "st_09-02",
+				"name": "“领袖”"
+			}
 			]
 			},
 			"avg_npc_233"{
 			"imgkey": "avg_npc_233",
 			"usename": [
+			{
 			    "storycode": "main_09-04_END",
 				"name": [
 				    "？？？",
 					"蔓德拉"
 				]
+			},
+			{
+				"storycode": "st_09-02",
+				"name": "蔓德拉"
+			}
 			]
 			},
 			"avg_npc_238"{
@@ -281,8 +305,14 @@
 			"avg_npc_244"{
 			"imgkey": "avg_npc_244",
 			"usename": [
+			{
 				"storycode": "main_09-05_BEG",
 				"name": "深池士兵"
+			},
+			{
+				"storycode": "st_09-02",
+				"name": "深池士兵"
+			}
 			]
 			},
 			"avg_npc_245"{
