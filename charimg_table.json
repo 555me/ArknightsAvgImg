@@ -1,6 +1,51 @@
 {
 	"Character": {
 		"avg_npc": {
+			"avg_npc_001"{
+			"imgkey": "avg_npc_001",
+			"usename": []
+			},
+			"avg_npc_002"{
+			"imgkey": "avg_npc_002",
+			"usename": []
+			},
+			"avg_npc_003"{
+			"imgkey": "avg_npc_003",
+			"usename": []
+			},
+			"avg_npc_004"{
+			"imgkey": "avg_npc_004",
+			"usename": []
+			},
+			"avg_npc_005"{
+			"imgkey": "avg_npc_005",
+			"usename": []
+			},
+			"avg_npc_006"{
+			"imgkey": "avg_npc_006",
+			"usename": []
+			},
+			"avg_npc_007"{
+			"imgkey": "avg_npc_007",
+			"usename": []
+			},
+			"avg_npc_008"{
+			"imgkey": "avg_npc_008",
+			"usename": []
+			},
+			"avg_npc_012"{
+			"imgkey": "avg_npc_012",
+			"usename": [
+			{
+			    "storycode": "main_09-08_end",
+				"name": "干员弗雷德"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "干员弗雷德"
+			}
+			]
+			},
 			"avg_npc_089"{
 			"imgkey": "avg_npc_089",
 			"usename": [
@@ -10,6 +55,14 @@
 			},
 			{
 				"storycode": "main_09-04_BEG",
+				"name": "干员碎纸机"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "干员碎纸机"
+			},
+			{
+				"storycode": "main_09-10_beg",
 				"name": "干员碎纸机"
 			}
 			]
@@ -23,6 +76,10 @@
 			},
 			{
 				"storycode": "main_09-06_end",
+				"name": "干员威尔"
+			},
+			{
+				"storycode": "main_09-10_beg",
 				"name": "干员威尔"
 			}
 			]
@@ -157,6 +214,14 @@
 			{
 				"storycode": "main_09-06_end",
 				"name": "号角"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "号角"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "号角"
 			}
 			]
 			},
@@ -233,6 +298,10 @@
 			{
 				"storycode": "main_09-04_BEG",
 				"name": "克雷格"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "克雷格"
 			}
 			]
 			},
@@ -257,6 +326,14 @@
 			},
 			{
 				"storycode": "main_09-05_BEG",
+				"name": "维多利亚士兵"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "维多利亚士兵"
+			},
+			{
+				"storycode": "main_09-08_end",
 				"name": "维多利亚士兵"
 			}
 			]
@@ -286,6 +363,17 @@
 				    "恐惧的青年",
 				    "受伤的青年"
 				]
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": [
+				    "痛苦的男性",
+					"忙碌的青年"
+				]
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "厨子麦克马丁"
 			}
 			]
 			},
@@ -299,6 +387,10 @@
 			{
 				"storycode": "main_09-05_BEG",
 				"name": "悲伤的女性"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "悲伤的女性"
 			}
 			]
 			},
@@ -311,6 +403,14 @@
 			},
 			{
 				"storycode": "st_09-02",
+				"name": "深池士兵"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "深池士兵"
+			},
+			{
+				"storycode": "main_09-10_beg",
 				"name": "深池士兵"
 			}
 			]
@@ -333,6 +433,18 @@
 			{
 				"storycode": "main_09-06_end",
 				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "Outcast"
 			}
 			]
 			},
@@ -349,6 +461,10 @@
 			},
 			{
 				"storycode": "main_09-06_end",
+				"name": "副官希尔"
+			},
+			{
+				"storycode": "main_09-08_end",
 				"name": "副官希尔"
 			}
 			]
@@ -389,6 +505,18 @@
 			{
 				"storycode": "main_09-06_end",
 				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "风笛"
 			}
 			]
 			},
@@ -414,6 +542,18 @@
 			{
 				"storycode": "main_09-05_BEG",
 				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "简妮"
 			}
 			]
 			}
@@ -422,8 +562,18 @@
 			"char_013_riop"{
 		    "imgkey": "char_013_riop",
 			"usename": [
+			{
 			    "storycode": "main_09-02_end",
 				"name": "干员奥利弗"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "干员奥利弗"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "干员奥利弗"
+			}
 			]
 			}
 		}
