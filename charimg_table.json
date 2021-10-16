@@ -3,7 +3,10 @@
 		"avg_npc": {
 			"avg_npc_001"{
 			"imgkey": "avg_npc_001",
-			"usename": []
+			"usename": [
+			    "storycode": "act9mini_st04",
+				"name": "奇怪的路人？"
+			]
 			},
 			"avg_npc_002"{
 			"imgkey": "avg_npc_002",
@@ -27,7 +30,16 @@
 			},
 			"avg_npc_007"{
 			"imgkey": "avg_npc_007",
-			"usename": []
+			"usename": [
+			{
+			    "storycode": "act9mini_st03",
+				"name": "猎人"
+			},
+			{
+				"storycode": "act9mini_st05",
+				"name": "赏金猎人"
+			}
+			]
 			},
 			"avg_npc_008"{
 			"imgkey": "avg_npc_008",
@@ -44,6 +56,27 @@
 				"storycode": "main_09-10_beg",
 				"name": "干员弗雷德"
 			}
+			]
+			},
+			"avg_npc_054"{
+			"imgkey": "avg_npc_054",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "萨卡兹劫匪"
+			]
+			},
+			"avg_npc_061"{
+			"imgkey": "avg_npc_061",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "玛莉娅"
+			]
+			},
+			"avg_npc_064_weapon"{
+			"imgkey": "avg_npc_064_weapon",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "佐菲娅"
 			]
 			},
 			"avg_npc_089"{
@@ -81,6 +114,97 @@
 			{
 				"storycode": "main_09-10_beg",
 				"name": "干员威尔"
+			}
+			]
+			},
+			"avg_npc_103"{
+			"imgkey": "avg_npc_103",
+			"usename": [
+			    "storycode": "act9mini_st04",
+				"name": "塑料骑士"
+			]
+			},
+			"avg_npc_104"{
+			"imgkey": [
+			    "storycode": "act9mini_st02",
+				"name": "锈铜骑士"
+			]
+			},
+			"avg_npc_108"{
+			"imgkey": "avg_npc_108",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "玛恩纳"
+			]
+			},
+			"avg_npc_109"{
+			"imgkey": "avg_npc_109",
+			"usename": [
+			{
+			    "storycode": "act9mini_st05",
+				"name": "发言人马克维茨"
+			},
+			{
+				"storycode": "act9mini_st06",
+				"name": "企业员工"
+			}
+			]
+			},
+			"avg_npc_121"{
+			"imgkey": "avg_npc_121",
+			"usename" [
+			    "storycode": "act9mini_st02",
+				"name": "大嘴莫布"
+			]
+			},
+			"avg_npc_122"{
+			"imgkey": "avg_npc_122",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": "索娜"
+			},
+			{
+				"storycode": "act9mini_st02",
+				"name": "索娜"
+			},
+			{
+				"storycode": "act9mini_st03",
+				"name": "索娜"
+			},
+			{
+				"storycode": "act9mini_st04",
+				"name": [
+				    "？？？",
+					"焰尾骑士"
+				]
+			}
+			]
+			},
+			"avg_npc_123"{
+			"imgkey": "avg_npc_123",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "冷漠的骑士",
+					"格蕾纳蒂"
+				]
+			},
+			{
+				"storycode": "act9mini_st02",
+				"name": "格蕾纳蒂"
+			},
+			{
+				"storycode": "act9mini_st03",
+				"name": "格蕾纳蒂"
+			},
+			{
+				"storycode": "act9mini_st04",
+				"name": [
+				    "？？？",
+					"灰毫骑士"
+				]
 			}
 			]
 			},
@@ -127,6 +251,20 @@
 			}
 			]
 			},
+			"avg_npc_209"{
+			"imgkey": "avg_npc_209",
+			"usename": [
+			    "storycode": "act9mini_st07",
+				"name": "“青金”"
+			]
+			},
+			"avg_npc_211"{
+			"imgkey": "avg_npc_211",
+			"usename": [
+			    "storycode": "act9mini_st06",
+				"name": "马克维茨"
+			]
+			},
 			"avg_npc_213"{
 			"imgkey": "avg_npc_213",
 			"usename": [
@@ -137,6 +275,90 @@
 			{
 				"storycode": "st_09-02",
 				"name": "西尔莎"
+			}
+			]
+			},
+			"avg_npc_216"{
+			"imgkey": "avg_npc_216",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": "无胄盟成员"
+			},
+			{
+				"storycode": "act9mini_st04",
+				"name": "无胄盟杀手"
+			},
+			{
+				"storycode": "act9mini_st05",
+				"name": "无胄盟成员"
+			},
+			{
+				"storycode": "act9mini_st07",
+				"name": "无胄盟成员"
+			}
+			]
+			},
+			"avg_npc_217"{
+			"imgkey": "avg_npc_217",
+			"usename": [
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "观赛的骑士A",
+					"观赛的骑士"
+				]
+			]
+			},
+			"avg_npc_218"{
+			"imgkey": "avg_npc_218",
+			"usename": [
+			    "storycode": "act9mini_st01",
+				"name": "观赛的骑士B"
+			]
+			},
+			"avg_npc_220"{
+			"imgkey": "avg_npc_220",
+			"usename": [
+			    "storycode": "act9mini_st03",
+				"name": "红松骑士团成员"
+			]
+			},
+			"avg_npc_221"{
+			"imgkey": "avg_npc_221",
+			"usename": [
+			{
+		        "storycode": "act9mini_st01",
+				"name": "感染者骑士"
+			},
+			{
+				"storycode": "act9mini_st03",
+				"name": "感染者工程师骑士"
+			}
+			]
+			},
+			"avg_npc_222"{
+			"imgkey": "avg_npc_222",
+			"usename": [
+			{
+			    "storycode": "act9mini_st06",
+                "name": "企业员工"
+			},
+			{
+				"storycode": "act9mini_st07",
+				"name": "经纪人"
+			}
+            ]
+			},			
+			"avg_npc_223"{
+			"imgkey": "avg_npc_223",
+			"usename": [
+			{
+			    "storycode": "act9mini_st06",
+				"name": "工作人员"
+			},
+			{
+				"storycode": "act9mini_st07",
+				"name": "骑探"
 			}
 			]
 			},
@@ -520,8 +742,28 @@
 			}
 			]
 			},
-			"avg_479_sleach_1"{
-			"imgkey": "avg_479_sleach_1",
+			"avg_430_fartth"{
+			"imgkey": "avg_430_fartth",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "表情冰冷的骑士",
+					"查丝汀娜"
+				]
+			},
+			{
+				"storycode": "act9mini_st02",
+				"name": "查丝汀娜"
+			},
+			{
+				"storycode": "act9mini_st04",
+				"name": "查丝汀娜"
+			}
+			]
+			},
+			"avg_479_sleach"{
+			"imgkey": "avg_479_sleach",
 			"usename": [
 			{
 			    "storycode": "main_09-02_end",
@@ -556,9 +798,43 @@
 				"name": "简妮"
 			}
 			]
+			},
+			"avg_496_wdmane"{
+			"imgkey": "avg_496_wdmane",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "狂野的骑士",
+					"艾沃娜"
+				]
+			},
+			{
+				"storycode" "act9mini_st02",
+				"name": "艾沃娜"
+			},
+			{
+				"storycode": "act9mini_st03",
+				"name": "艾沃娜"
+			}
+			]
+			}
+			"avg_4000_jnight"{
+			"imgkey": "avg_4000_jnight",
+			"usename": [
+			    "storycode": "act9mini_st03",
+				"name": "？？？"
+			]
 			}
 		}
 		"char_num": {
+			"char_002_amiya"{
+			"imgkey": "char_002_amiya",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "阿米娅"
+			]
+			},
 			"char_013_riop"{
 		    "imgkey": "char_013_riop",
 			"usename": [
@@ -574,6 +850,65 @@
 				"storycode": "main_09-10_beg",
 				"name": "干员奥利弗"
 			}
+			]
+			},
+			"char_147_shining"{
+			"imgkey": "char_147_shining",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "闪灵"
+			]
+			},
+			"char_148_nearl"{
+		    "imgkey": "char_148_nearl",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "玛嘉烈"
+			]
+			},
+			"char_148_nearl_ns"{
+			"imgkey": "char_148_nearl_ns",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "玛嘉烈"
+			]
+			},
+			"char_158_milu"{
+			"imgkey": "char_158_milu",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "守林人"
+			]
+			},
+			"char_179_cgbird"{
+			"imgkey": "char_179_cgbird",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "夜莺"
+			]
+			},
+			"char_204_platnm"{
+			"imgkey": "char_204_platnm",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": "白金"
+			},
+			{
+				"storycode": "act9mini_st05",
+				"name": "白金"
+			},
+			{
+				"storycode": "act9mini_st07",
+				"name": "欣特莱雅"
+			}
+			]
+			},
+			"char_1507_Mephisto"{
+			"imgkey": "char_1507_Mephisto",
+			"usename": [
+			    "storycode": "act9mini_st05",
+				"name": "梅菲斯特"
 			]
 			}
 		}
