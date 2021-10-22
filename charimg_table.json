@@ -55,7 +55,18 @@
 			{
 				"storycode": "main_09-10_beg",
 				"name": "干员弗雷德"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "干员弗雷德"
 			}
+			]
+			},
+			"avg_npc_013"{
+			"imgkey": "avg_npc_013",
+			"usename": [
+			    "storycode": "main_09-11_end",
+				"name": "干员奥利弗"
 			]
 			},
 			"avg_npc_054"{
@@ -96,6 +107,10 @@
 			},
 			{
 				"storycode": "main_09-10_beg",
+				"name": "干员碎纸机"
+			},
+			{
+				"storycode": "main_09-11_end",
 				"name": "干员碎纸机"
 			}
 			]
@@ -383,6 +398,10 @@
 			{
 				"storycode": "main_09-06_end",
 				"name": "汉密尔顿上校"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "汉密尔顿上校"
 			}
 			]
 			},
@@ -444,6 +463,10 @@
 			{
 				"storycode": "main_09-08_end",
 				"name": "号角"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "号角"
 			}
 			]
 			},
@@ -460,6 +483,13 @@
 			}
 			]
 			},
+			"avg_npc_232"{
+			"imgkey": "avg_npc_232",
+			"usename": [
+			    "storycode": "main_09-12_beg",
+				"name": "重症感染者"
+			]
+			},
 			"avg_npc_233"{
 			"imgkey": "avg_npc_233",
 			"usename": [
@@ -474,6 +504,17 @@
 				"storycode": "st_09-02",
 				"name": "蔓德拉"
 			}
+			]
+			},
+			"avg_npc_234"{
+			"imgkey": "avg_npc_234",
+			"usename": [
+			    "storycode": "main_09-12_beg",
+				"name": [
+				    "“强盗”",
+					"“毒药学者”",
+					"“会计”"
+				]
 			]
 			},
 			"avg_npc_238"{
@@ -523,6 +564,10 @@
 			},
 			{
 				"storycode": "main_09-07_beg",
+				"name": "克雷格"
+			},
+			{
+			    "storycode": "main_09-12_beg",
 				"name": "克雷格"
 			}
 			]
@@ -596,6 +641,10 @@
 			{
 				"storycode": "main_09-08_end",
 				"name": "厨子麦克马丁"
+			},
+			{
+				"storycode": "main_09-12_beg",
+				"name": "志愿者青年"
 			}
 			]
 			},
@@ -612,6 +661,10 @@
 			},
 			{
 				"storycode": "main_09-07_beg",
+				"name": "悲伤的女性"
+			},
+			{
+				"storycode": "main_09-12_beg",
 				"name": "悲伤的女性"
 			}
 			]
@@ -633,6 +686,10 @@
 			},
 			{
 				"storycode": "main_09-10_beg",
+				"name": "深池士兵"
+			},
+			{
+				"storycode": "main_09-12_beg",
 				"name": "深池士兵"
 			}
 			]
@@ -667,7 +724,29 @@
 			{
 				"storycode": "main_09-10_beg",
 				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "Outcast"
+			},
+			{
+				"storycode": "main_09-12_beg",
+				"name": "Outcast"
 			}
+			]
+			},
+			"avg_npc_246"{
+			"imgkey": "avg_npc_246",
+			"usename": [
+			    "storycode": "main_09-12_beg",
+				"name": "“雄辩家”"
+			]
+			},
+			"avg_npc_247"{
+			"imgkey": "avg_npc_247",
+			"usename": [
+			    "storycode": "main_09-12_beg",
+				"name": "“纵火家”"
 			]
 			},
 			"avg_npc_248"{
@@ -795,6 +874,14 @@
 			},
 			{
 				"storycode": "main_09-10_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-12_beg",
 				"name": "简妮"
 			}
 			]
