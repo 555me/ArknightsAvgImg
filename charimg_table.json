@@ -1,5 +1,183 @@
 {
 	"Character": {
+		"avg_num": {
+			"avg_222_bpipe"{
+			"imgkey": "avg_222_bpipe",
+			"usename": [
+			{
+				"storycode": "st_09-01",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-01_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-03_END",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-04_END",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-05_BEG",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-06_end",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-16_end",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-17_beg",
+				"name": "风笛"
+			},
+			{
+				"storycode": "main_09-17_end",
+				"name": "风笛"
+			},
+			{
+				"storycode": "st_09-03",
+				"name": "风笛"
+			}
+			]
+			},
+			"avg_226_weed"{
+			"imgkey": "avg_226_weed",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "苇草"
+			]
+			},
+			"avg_430_fartth"{
+			"imgkey": "avg_430_fartth",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "表情冰冷的骑士",
+					"查丝汀娜"
+				]
+			},
+			{
+				"storycode": "act9mini_st02",
+				"name": "查丝汀娜"
+			},
+			{
+				"storycode": "act9mini_st04",
+				"name": "查丝汀娜"
+			}
+			]
+			},
+			"avg_479_sleach"{
+			"imgkey": "avg_479_sleach",
+			"usename": [
+			{
+			    "storycode": "main_09-02_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-03_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-03_END",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-04_BEG",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-05_BEG",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-07_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-08_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-10_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-11_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-12_beg",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-16_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "main_09-17_end",
+				"name": "简妮"
+			},
+			{
+				"storycode": "st_09-03",
+				"name": "简妮"
+			}
+			]
+			},
+			"avg_496_wdmane"{
+			"imgkey": "avg_496_wdmane",
+			"usename": [
+			{
+			    "storycode": "act9mini_st01",
+				"name": [
+				    "狂野的骑士",
+					"艾沃娜"
+				]
+			},
+			{
+				"storycode" "act9mini_st02",
+				"name": "艾沃娜"
+			},
+			{
+				"storycode": "act9mini_st03",
+				"name": "艾沃娜"
+			}
+			]
+			}
+			"avg_4000_jnight"{
+			"imgkey": "avg_4000_jnight",
+			"usename": [
+			    "storycode": "act9mini_st03",
+				"name": "？？？"
+			]
+			}
+		},
 		"avg_npc": {
 			"avg_npc_001"{
 			"imgkey": "avg_npc_001",
@@ -890,183 +1068,6 @@
 			]
 			}
 		},
-		"avg_num": {
-			"avg_222_bpipe"{
-			"imgkey": "avg_222_bpipe",
-			"usename": [
-			{
-				"storycode": "st_09-01",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-01_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-04_END",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "st_09-03",
-				"name": "风笛"
-			}
-			]
-			},
-			"avg_226_weed"{
-			"imgkey": "avg_226_weed",
-			"usename": [
-			    "storycode": "st_09-03",
-				"name": "苇草"
-			},
-			"avg_430_fartth"{
-			"imgkey": "avg_430_fartth",
-			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "表情冰冷的骑士",
-					"查丝汀娜"
-				]
-			},
-			{
-				"storycode": "act9mini_st02",
-				"name": "查丝汀娜"
-			},
-			{
-				"storycode": "act9mini_st04",
-				"name": "查丝汀娜"
-			}
-			]
-			},
-			"avg_479_sleach"{
-			"imgkey": "avg_479_sleach",
-			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "st_09-03",
-				"name": "简妮"
-			}
-			]
-			},
-			"avg_496_wdmane"{
-			"imgkey": "avg_496_wdmane",
-			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "狂野的骑士",
-					"艾沃娜"
-				]
-			},
-			{
-				"storycode" "act9mini_st02",
-				"name": "艾沃娜"
-			},
-			{
-				"storycode": "act9mini_st03",
-				"name": "艾沃娜"
-			}
-			]
-			}
-			"avg_4000_jnight"{
-			"imgkey": "avg_4000_jnight",
-			"usename": [
-			    "storycode": "act9mini_st03",
-				"name": "？？？"
-			]
-			}
-		}
 		"char_num": {
 			"char_002_amiya"{
 			"imgkey": "char_002_amiya",
