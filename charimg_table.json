@@ -63,6 +63,10 @@
 			{
 				"storycode": "st_09-03",
 				"name": "风笛"
+			},
+			{
+				"storycode": "st_09-04",
+				"name": "风笛"
 			}
 			]
 			},
@@ -237,6 +241,10 @@
 			{
 				"storycode": "main_09-11_end",
 				"name": "干员弗雷德"
+			},
+			{
+				"storycode": "st_09-04",
+				"name": "近卫干员"
 			}
 			]
 			},
@@ -247,11 +255,31 @@
 				"name": "干员奥利弗"
 			]
 			},
+			"avg_npc_016"{
+			"imgkey": "avg_npc_016",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "幻影弩手"
+			]
+			},
+			"avg_npc_043"{
+			"imgkey": "avg_npc_043",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "九"
+			]
+			},
 			"avg_npc_054"{
 			"imgkey": "avg_npc_054",
 			"usename": [
+			{
+				"storycode": "st_09-04",
+				"name": "游击队萨卡兹"
+			},
+			{
 			    "storycode": "act9mini_st05",
 				"name": "萨卡兹劫匪"
+			}
 			]
 			},
 			"avg_npc_055"{
@@ -259,6 +287,13 @@
 			"usename": [
 			    "storycode": "st_09-03",
 				"name": "赦罪师"
+			]
+			},
+			"avg_npc_059"{
+			"imgkey": "avg_npc_059",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "Guard"
 			]
 			},
 			"avg_npc_061"{
@@ -280,6 +315,20 @@
 			"usename": [
 			    "storycode": "act9mini_st05",
 				"name": "佐菲娅"
+			]
+			},
+			"avg_npc_080"{
+			"imgkey": "avg_npc_080",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "整合运动士兵"
+			]
+			},
+			"avg_npc_088"{
+			"imgkey": "avg_npc_088",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "后勤干员"
 			]
 			},
 			"avg_npc_089"{
@@ -308,6 +357,10 @@
 			{
 				"storycode": "main_09-16_end",
 				"name": "干员碎纸机"
+			},
+			{
+				"storycode": "st_09-04",
+				"name": "狙击干员"
 			}
 			]
 			},
@@ -1072,22 +1125,54 @@
 			"char_002_amiya"{
 			"imgkey": "char_002_amiya",
 			"usename": [
+			{
+				"storycode": "st_09-04",
+				"name": "阿米娅"
+			},
+			{
 			    "storycode": "act9mini_st05",
 				"name": "阿米娅"
+			}
 			]
 			},
 			"char_003_kalts"{
 			"imgkey": "char_003_kalts",
 			"usename": [
+			{
 			    "storycode": "st_09-03",
 				"name": "凯尔希"
+			},
+			{
+				"storycode": "st_09-04",
+				"name": "凯尔希"
+			}
+			]
+			},
+			"char_007_closre"{
+			"imgkey": "char_007_closre",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "可露希尔"
 			]
 			},
 			"char_010_chen"{
 			"imgkey": "char_010_chen",
 			"usename": [
+			{
 			    "storycode": "st_09-03",
 				"name": "陈"
+			},
+			{
+				"storycode": "st_09-04",
+				"name": "陈"
+			}
+			]
+			},
+			"char_011_talula"{
+			"imgkey": "char_011_talula",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "塔露拉"
 			]
 			},
 			"char_013_riop"{
@@ -1105,6 +1190,20 @@
 				"storycode": "main_09-10_beg",
 				"name": "干员奥利弗"
 			}
+			]
+			},
+			"char_016_medic"{
+			"imgkey": "char_016_medic",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "医疗干员"
+			]
+			},
+			"char_017_homura"{
+			"imgkey": "char_017_homura",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "煌"
 			]
 			},
 			"char_112_seige"{
@@ -1166,11 +1265,37 @@
 			}
 			]
 			},
+			"char_1002_nsabr"{
+			"imgkey": "char_1002_nsabr",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": [
+				    "整合运动士兵",
+					"整合运动战士"
+				]
+			]
+			},
+			"char_1011_wizard"{
+			"imgkey": "char_1011_wizard",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "整合运动术师"
+			]
+			},
 			"char_1507_Mephisto"{
 			"imgkey": "char_1507_Mephisto",
 			"usename": [
 			    "storycode": "act9mini_st05",
 				"name": "梅菲斯特"
+			]
+			}
+		},
+		"npc_num"{
+			"npc_10002"{
+			"imgkey": "npc_10002",
+			"usename": [
+			    "storycode": "st_09-04",
+				"name": "Mon3tr"
 			]
 			}
 		}
