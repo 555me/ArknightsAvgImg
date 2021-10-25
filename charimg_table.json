@@ -76,11 +76,25 @@
 				"name": "萨卡兹劫匪"
 			]
 			},
+			"avg_npc_055"{
+			"imgkey": "avg_npc_055",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "赦罪师"
+			]
+			},
 			"avg_npc_061"{
 			"imgkey": "avg_npc_061",
 			"usename": [
 			    "storycode": "act9mini_st05",
 				"name": "玛莉娅"
+			]
+			},
+			"avg_npc_062"{
+			"imgkey": "avg_npc_062",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "摄政王"
 			]
 			},
 			"avg_npc_064_weapon"{
@@ -225,6 +239,13 @@
 					"灰毫骑士"
 				]
 			}
+			]
+			},
+			"avg_npc_156"{
+			"imgkey": "avg_npc_156",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "雷蛇"
 			]
 			},
 			"avg_npc_175"{
@@ -560,11 +581,25 @@
 			}
 			]
 			},
+			"avg_npc_235"{
+			"imgkey": "avg_npc_235",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "Misery"
+			]
+			},
 			"avg_npc_236"{
 			"imgkey": "avg_npc_236",
 			"usename": [
 			    "storycode": "main_09-17_beg",
 				"name": "？？？"
+			]
+			},
+			"avg_npc_237"{
+			"imgkey": "avg_npc_237",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "杰西卡"
 			]
 			},
 			"avg_npc_238"{
@@ -914,8 +949,18 @@
 			{
 				"storycode": "main_09-17_end",
 				"name": "风笛"
+			},
+			{
+				"storycode": "st_09-03",
+				"name": "风笛"
 			}
 			]
+			},
+			"avg_226_weed"{
+			"imgkey": "avg_226_weed",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "苇草"
 			},
 			"avg_430_fartth"{
 			"imgkey": "avg_430_fartth",
@@ -987,6 +1032,10 @@
 			{
 				"storycode": "main_09-17_end",
 				"name": "简妮"
+			},
+			{
+				"storycode": "st_09-03",
+				"name": "简妮"
 			}
 			]
 			},
@@ -1026,6 +1075,20 @@
 				"name": "阿米娅"
 			]
 			},
+			"char_003_kalts"{
+			"imgkey": "char_003_kalts",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "凯尔希"
+			]
+			},
+			"char_010_chen"{
+			"imgkey": "char_010_chen",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "陈"
+			]
+			},
 			"char_013_riop"{
 		    "imgkey": "char_013_riop",
 			"usename": [
@@ -1041,6 +1104,13 @@
 				"storycode": "main_09-10_beg",
 				"name": "干员奥利弗"
 			}
+			]
+			},
+			"char_112_seige"{
+			"imgkey": "char_112_seige",
+			"usename": [
+			    "storycode": "st_09-03",
+				"name": "推进之王"
 			]
 			},
 			"char_147_shining"{
