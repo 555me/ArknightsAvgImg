@@ -1,6 +1,14 @@
 {
 	"Character": {
 		"avg_num": {
+			"avg_123_fang"{
+			"imgkey": "avg_123_fang",
+			"usename": []
+			},
+			"avg_126_shotst"{
+			"imgkey": "avg_126_shotst",
+			"usename": []
+			},
 			"avg_222_bpipe"{
 			"imgkey": "avg_222_bpipe",
 			"usename": [
@@ -192,7 +200,10 @@
 			},
 			"avg_npc_002"{
 			"imgkey": "avg_npc_002",
-			"usename": []
+			"usename": [
+			    "storycode": "story_aglina_1_2",
+				"name": "快餐店店主"
+			]
 			},
 			"avg_npc_003"{
 			"imgkey": "avg_npc_003",
@@ -227,6 +238,14 @@
 			"imgkey": "avg_npc_008",
 			"usename": []
 			},
+			"avg_npc_010"{
+			"imgkey": "avg_npc_010",
+			"usename": []
+			},
+			"avg_npc_011"{
+			"imgkey": "avg_npc_011",
+			"usename": []
+			},
 			"avg_npc_012"{
 			"imgkey": "avg_npc_012",
 			"usename": [
@@ -255,6 +274,14 @@
 				"name": "干员奥利弗"
 			]
 			},
+			"avg_npc_014"{
+			"imgkey": "avg_npc_014",
+			"usename": []
+			},
+			"avg_npc_015"{
+			"imgkey": "avg_npc_015",
+			"usename": []
+			},
 			"avg_npc_016"{
 			"imgkey": "avg_npc_016",
 			"usename": [
@@ -267,6 +294,13 @@
 			"usename": [
 			    "storycode": "st_09-04",
 				"name": "九"
+			]
+			},
+			"avg_npc_053"{
+			"imgkey": "avg_npc_053",
+			"usename": [
+			    "storycode": "story_12fce_1_1",
+				"name": "萨卡兹佣兵"
 			]
 			},
 			"avg_npc_054"{
@@ -521,6 +555,78 @@
 				"name": "野心勃勃的男爵"
 			}
 			]
+			},
+			"avg_npc_190"{
+			"imgkey": "avg_npc_190",
+			"usename": []
+			},
+			"avg_npc_192"{
+			"imgkey": "avg_npc_192",
+			"usename": []
+			},
+			"avg_npc_193"{
+			"imgkey": "avg_npc_193",
+			"usename": []
+			},
+			"avg_npc_194"{
+			"imgkey": "avg_npc_194",
+			"usename": []
+			},
+			"avg_npc_195"{
+			"imgkey": "avg_npc_195",
+			"usename": []
+			},
+			"avg_npc_196"{
+			"imgkey": "avg_npc_196",
+			"usename": []
+			},
+			"avg_npc_197"{
+			"imgkey": "avg_npc_197",
+			"usename": []
+			},
+			"avg_npc_198"{
+			"imgkey": "avg_npc_198",
+			"usename": []
+			},
+			"avg_npc_199"{
+			"imgkey": "avg_npc_199",
+			"usename": []
+			},
+			"avg_npc_200"{
+			"imgkey": "avg_npc_200",
+			"usename": []
+			},
+			"avg_npc_201"{
+			"imgkey": "avg_npc_201",
+			"usename": []
+			},
+			"avg_npc_202"{
+			"imgkey": "avg_npc_202",
+			"usename": []
+			},
+			"avg_npc_203"{
+			"imgkey": "avg_npc_203",
+			"usename": []
+			},
+			"avg_npc_204"{
+			"imgkey": "avg_npc_204",
+			"usename": []
+			},
+			"avg_npc_205"{
+			"imgkey": "avg_npc_205",
+			"usename": []
+			},
+			"avg_npc_206"{
+			"imgkey": "avg_npc_206",
+			"usename": []
+			},
+			"avg_npc_207"{
+			"imgkey": "avg_npc_207",
+			"usename": []
+			},
+			"avg_npc_208"{
+			"imgkey": "avg_npc_208",
+			"usename": []
 			},
 			"avg_npc_209"{
 			"imgkey": "avg_npc_209",
@@ -1155,6 +1261,17 @@
 				"name": "可露希尔"
 			]
 			},
+			"char_009_12fce"{
+			"imgkey": "char_009_12fce",
+			"usename": [
+			    "storycode": "story_12fce_1_1",
+				"name": [
+				    "？？？",
+					"46A",
+					"12F"
+				]
+			]
+			},
 			"char_010_chen"{
 			"imgkey": "char_010_chen",
 			"usename": [
@@ -1241,11 +1358,36 @@
 				"name": "守林人"
 			]
 			},
+			"char_174_slbell"{
+			"imgkey": "char_174_slbell",
+			"usename": []
+			},
 			"char_179_cgbird"{
 			"imgkey": "char_179_cgbird",
 			"usename": [
 			    "storycode": "act9mini_st05",
 				"name": "夜莺"
+			]
+			},
+			"char_180_amgoat"{
+			"imgkey": "char_180_amgoat",
+			"usename": []
+			},
+			"char_181_flower"{
+			"imgkey": "char_181_flower",
+			"usename": []
+			},
+			"char_201_moeshd"{
+			"imgkey": "char_201_moeshd",
+			"usename": [
+			{
+			    "storycode": "story_aglina_1_1",
+				"name": "可颂"
+			},
+			{
+				"storycode": "story_aglina_1_2",
+				"name": "可颂"
+			}
 			]
 			},
 			"char_204_platnm"{
@@ -1263,6 +1405,33 @@
 				"storycode": "act9mini_st07",
 				"name": "欣特莱雅"
 			}
+			]
+			},
+			"char_291_aglina"{
+			"imgkey": "char_291_aglina",
+			"usename": [
+			{
+			    "storycode": "story_aglina_1_1",
+				"name": "安洁莉娜"
+			},
+			{
+				"storycode": "story_aglina_1_2",
+				"name": "安洁莉娜"
+			}
+			]
+			},
+			"char_358_lisa"{
+			"imgkey": "char_358_lisa",
+			"usename": [
+			    "storycode": "story_aglina_1_2",
+				"name": "铃兰"
+			]
+			},
+			"char_503_rang"{
+			"imgkey": "char_503_rang",
+			"usename": [
+			    "storycode": "story_12fce_1_1",
+				"name": "巡林者"
 			]
 			},
 			"char_1002_nsabr"{
