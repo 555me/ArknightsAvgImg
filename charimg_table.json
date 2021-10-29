@@ -201,8 +201,14 @@
 			"avg_npc_002"{
 			"imgkey": "avg_npc_002",
 			"usename": [
+			{
 			    "storycode": "story_aglina_1_2",
 				"name": "快餐店店主"
+			},
+			{
+				"storycode": "story_angel_1_1",
+				"name": "地痞"
+			}
 			]
 			},
 			"avg_npc_003"{
@@ -264,6 +270,18 @@
 			{
 				"storycode": "st_09-04",
 				"name": "近卫干员"
+			},
+			{
+				"storycode": "story_amgoat_1_1",
+				"name": [
+				    "外勤干员",
+					"巴蒂",
+					"干员巴蒂"
+				]
+			},
+			{
+				"storycode": "story_amgoat_2_1",
+				"name": "干员巴蒂"
 			}
 			]
 			},
@@ -287,6 +305,13 @@
 			"usename": [
 			    "storycode": "st_09-04",
 				"name": "幻影弩手"
+			]
+			},
+			"avg_npc_033"{
+			"imgkey": "avg_npc_033",
+			"usename": [
+			    "storycode": "story_angel_1_1",
+				"name": "一般龙门市民"
 			]
 			},
 			"avg_npc_043"{
@@ -349,6 +374,13 @@
 			"usename": [
 			    "storycode": "act9mini_st05",
 				"name": "佐菲娅"
+			]
+			},
+			"avg_npc_068"{
+			"imgkey": "avg_npc_068",
+			"usename": [
+			    "storycode": "story_amgoat_1_1",
+				"name": "向导"
 			]
 			},
 			"avg_npc_080"{
@@ -1312,8 +1344,14 @@
 			"char_016_medic"{
 			"imgkey": "char_016_medic",
 			"usename": [
+			{
 			    "storycode": "st_09-04",
 				"name": "医疗干员"
+			},
+			{
+				"storycode": "story_amgoat_1_1",
+				"name": "医疗干员"
+			}
 			]
 			},
 			"char_017_homura"{
@@ -1321,6 +1359,38 @@
 			"usename": [
 			    "storycode": "st_09-04",
 				"name": "煌"
+			]
+			},
+			"char_101_sora"{
+			"imgkey": "char_101_sora",
+			"usename": [
+			    "storycode": "story_angel_1_1",
+				"name": "空"
+			]
+			},
+			"char_101_sora_summer"{
+			"imgkey": "char_101_sora_summer",
+			"usename": []
+			},
+			"char_102_texas"{
+			"imgkey": "char_102_texas",
+			"usename": [
+			    "storycode": "story_angel_1_1",
+				"name": "德克萨斯"
+			]
+			},
+			"char_103_angel"{
+			"imgkey": "char_103_angel",
+			"usename": [
+			    "storycode": "story_angel_1_1",
+				"name": "能天使"
+			]
+			},
+			"char_105_emper"{
+			"imgkey": "char_105_emper",
+			"usename": [
+			    "storycode": "story_angel_1_1",
+				"name": "大帝"
 			]
 			},
 			"char_112_seige"{
@@ -1371,7 +1441,16 @@
 			},
 			"char_180_amgoat"{
 			"imgkey": "char_180_amgoat",
-			"usename": []
+			"usename": [
+			{
+			    "storycode": "story_amgoat_1_1",
+				"name": "艾雅法拉"
+			},
+			{
+				"storycode": "story_amgoat_2_1",
+				"name": "艾雅法拉"
+			}
+			]
 			},
 			"char_181_flower"{
 			"imgkey": "char_181_flower",
@@ -1386,6 +1465,10 @@
 			},
 			{
 				"storycode": "story_aglina_1_2",
+				"name": "可颂"
+			},
+			{
+				"storycode": "story_angel_1_1",
 				"name": "可颂"
 			}
 			]
@@ -1418,6 +1501,13 @@
 				"storycode": "story_aglina_1_2",
 				"name": "安洁莉娜"
 			}
+			]
+			},
+			"char_348_ceylon"{
+			"imgkey": "char_348_ceylon",
+			"usename": [
+			    "storycode": "story_amgoat_1_1",
+				"name": "锡兰"
 			]
 			},
 			"char_358_lisa"{
