@@ -12,181 +12,270 @@
 			"avg_222_bpipe"{
 			"imgkey": "avg_222_bpipe",
 			"usename": [
-			{
-				"storycode": "st_09-01",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-01_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-04_END",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "风笛"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "风笛"
-			},
-			{
-				"storycode": "st_09-03",
-				"name": "风笛"
-			},
-			{
-				"storycode": "st_09-04",
-				"name": "风笛"
-			}
+			    "main": {
+					{
+						"storycode": "st_09-01",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-01_beg",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-03_END",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-04_END",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-06_end",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-10_beg",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "风笛"
+					},
+					{
+						"storycode": "main_09-17_end",
+						"name": "风笛"
+					},
+					{
+						"storycode": "st_09-03",
+						"name": "风笛"
+					},
+					{
+						"storycode": "st_09-04",
+						"name": "风笛"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_226_weed"{
 			"imgkey": "avg_226_weed",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "苇草"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "苇草"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
+			]
+			},
+			"avg_237_gravel"{
+			"imgkey": "avg_237_gravel",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_st_01",
+					"name": [
+					    "塞诺蜜",
+						"砾"
+					]
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_430_fartth"{
 			"imgkey": "avg_430_fartth",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "表情冰冷的骑士",
-					"查丝汀娜"
-				]
-			},
-			{
-				"storycode": "act9mini_st02",
-				"name": "查丝汀娜"
-			},
-			{
-				"storycode": "act9mini_st04",
-				"name": "查丝汀娜"
-			}
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "查丝汀娜"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "查丝汀娜"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "查丝汀娜"
+					}
+				},
+			    "ministory": {
+					{
+						"storycode": "act9mini_st01",
+						"name": [
+						  "表情冰冷的骑士",
+						  "查丝汀娜"
+						]
+					},
+					{
+						"storycode": "act9mini_st02",
+						"name": "查丝汀娜"
+					},
+					{
+						"storycode": "act9mini_st04",
+						"name": "查丝汀娜"
+					}
+				},
+				"memory": null
 			]
 			},
 			"avg_479_sleach"{
 			"imgkey": "avg_479_sleach",
 			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "简妮"
-			},
-			{
-				"storycode": "st_09-03",
-				"name": "简妮"
-			}
+			    "main": {
+					{
+						"storycode": "main_09-02_end",
+						"name": "简妮"
+			        },
+			        {
+			        	"storycode": "main_09-03_beg",
+			        	"name": "简妮"
+			        },
+			        {
+			        	"storycode": "main_09-03_END",
+			        	"name": "简妮"
+			        },
+		    		{
+		    			"storycode": "main_09-04_BEG",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "main_09-05_BEG",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "main_09-07_beg",
+		    			"name": "简妮"
+		    		},
+		    		{
+			    		"storycode": "main_09-08_end",
+			    		"name": "简妮"
+			    	},
+			    	{
+		    			"storycode": "main_09-10_beg",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "main_09-11_end",
+		    			"name": "简妮"
+			    	},
+		    		{
+			    		"storycode": "main_09-12_beg",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "main_09-16_end",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "main_09-17_end",
+		    			"name": "简妮"
+		    		},
+		    		{
+		    			"storycode": "st_09-03",
+			    		"name": "简妮"
+			    	}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_496_wdmane"{
 			"imgkey": "avg_496_wdmane",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "狂野的骑士",
-					"艾沃娜"
-				]
-			},
-			{
-				"storycode" "act9mini_st02",
-				"name": "艾沃娜"
-			},
-			{
-				"storycode": "act9mini_st03",
-				"name": "艾沃娜"
-			}
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_end",
+						"name": [
+						    "？？？",
+							"艾沃娜"
+						]
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "艾沃娜"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "艾沃娜"
+					}
+				},
+				"ministory": {
+		    		{
+		    		    "storycode": "act9mini_st01",
+		    			"name": [
+		    			    "狂野的骑士",
+		    				"艾沃娜"
+		    			]
+		    		},
+		    		{
+		    			"storycode" "act9mini_st02",
+		    			"name": "艾沃娜"
+		    		},
+		    		{
+		    			"storycode": "act9mini_st03",
+		    			"name": "艾沃娜"
+		    		}
+				},
+				"memory": null
 			]
-			}
+			},
+			"avg_1014_nearl2"{
+			"imgkey": "avg_1014_nearl2",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_end",
+					"name": "玛嘉烈"
+				},
+				"ministory": null,
+				"memory": null
+			]
+			},
 			"avg_4000_jnight"{
 			"imgkey": "avg_4000_jnight",
 			"usename": [
-			    "storycode": "act9mini_st03",
-				"name": "？？？"
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_01_beg",
+					"name": "“正义骑士号”"
+				},
+				"ministory": {
+			     	"storycode": "act9mini_st03",
+			        "name": "？？？"
+				},
+				"memory": null
 			]
 			}
 		},
@@ -194,21 +283,31 @@
 			"avg_npc_001"{
 			"imgkey": "avg_npc_001",
 			"usename": [
-			    "storycode": "act9mini_st04",
-				"name": "奇怪的路人？"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st04",
+					"name": "奇怪的路人？"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_002"{
 			"imgkey": "avg_npc_002",
 			"usename": [
-			{
-			    "storycode": "story_aglina_1_2",
-				"name": "快餐店店主"
-			},
-			{
-				"storycode": "story_angel_1_1",
-				"name": "地痞"
-			}
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+						"storycode": "story_aglina_1_2",
+						"name": "快餐店店主"
+					},
+					{
+						"storycode": "story_angel_1_1",
+						"name": "地痞"
+					}
+				}
 			]
 			},
 			"avg_npc_003"{
@@ -225,19 +324,32 @@
 			},
 			"avg_npc_006"{
 			"imgkey": "avg_npc_006",
-			"usename": []
+			"usename": [
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_ardign_1_1",
+					"name": "载具出租商人"
+				}
+			]
 			},
 			"avg_npc_007"{
 			"imgkey": "avg_npc_007",
 			"usename": [
-			{
-			    "storycode": "act9mini_st03",
-				"name": "猎人"
-			},
-			{
-				"storycode": "act9mini_st05",
-				"name": "赏金猎人"
-			}
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					{
+						"storycode": "act9mini_st03",
+						"name": "猎人"
+					},
+					{
+						"storycode": "act9mini_st05",
+						"name": "赏金猎人"
+					}
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_008"{
@@ -255,41 +367,60 @@
 			"avg_npc_012"{
 			"imgkey": "avg_npc_012",
 			"usename": [
-			{
-			    "storycode": "main_09-08_end",
-				"name": "干员弗雷德"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "干员弗雷德"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "干员弗雷德"
-			},
-			{
-				"storycode": "st_09-04",
-				"name": "近卫干员"
-			},
-			{
-				"storycode": "story_amgoat_1_1",
-				"name": [
-				    "外勤干员",
-					"巴蒂",
-					"干员巴蒂"
-				]
-			},
-			{
-				"storycode": "story_amgoat_2_1",
-				"name": "干员巴蒂"
-			}
+			    "main": {
+					{
+						"storycode": "main_09-08_end",
+						"name": "干员弗雷德"
+					},
+					{
+						"storycode": "main_09-10_beg",
+						"name": "干员弗雷德"
+					},
+					{
+						"storycode": "main_09-11_end",
+						"name": "干员弗雷德"
+					},
+					{
+						"storycode": "st_09-04",
+						"name": "近卫干员"
+					},
+					{
+						"storycode": "story_amgoat_1_1",
+						"name": [
+						    "外勤干员",
+							"巴蒂",
+							"干员巴蒂"
+						]
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+						"storycode": "story_amgoat_2_1",
+						"name": "干员巴蒂"
+					},
+					{
+						"storycode": "story_ardign_1_1",
+						"name": "罗德岛干员"
+					},
+					{
+						"storycode": "story_bldsk_1_1",
+						"name": "近卫干员"
+					}
+				}
 			]
 			},
 			"avg_npc_013"{
 			"imgkey": "avg_npc_013",
 			"usename": [
-			    "storycode": "main_09-11_end",
-				"name": "干员奥利弗"
+			    "main": {
+					"storycode": "main_09-11_end",
+					"name": "干员奥利弗"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_014"{
@@ -303,289 +434,638 @@
 			"avg_npc_016"{
 			"imgkey": "avg_npc_016",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "幻影弩手"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "幻影弩手"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
+			]
+			},
+			"avg_npc_031"{
+			"imgkey": "avg_npc_031",
+			"usename": []
+			},
+			"avg_npc_032"{
+			"imgkey": "avg_npc_032",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_02_beg",
+						"name": [
+					        "谨慎的观众",
+						    "聒噪的观众"
+					    ]
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "路过的游客A"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_033"{
 			"imgkey": "avg_npc_033",
 			"usename": [
-			    "storycode": "story_angel_1_1",
-				"name": "一般龙门市民"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_02_beg",
+						"name": "激动的观众"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "路过的游客B"
+					}
+				},
+				"ministory": null,
+				"memory": {
+					"storycode": "story_angel_1_1",
+					"name": "一般龙门市民"
+				}
 			]
 			},
 			"avg_npc_043"{
 			"imgkey": "avg_npc_043",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "九"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "九"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null,
 			]
 			},
 			"avg_npc_053"{
 			"imgkey": "avg_npc_053",
 			"usename": [
-			    "storycode": "story_12fce_1_1",
-				"name": "萨卡兹佣兵"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_12fce_1_1",
+					"name": "萨卡兹佣兵"
+				}
 			]
 			},
 			"avg_npc_054"{
 			"imgkey": "avg_npc_054",
 			"usename": [
-			{
-				"storycode": "st_09-04",
-				"name": "游击队萨卡兹"
-			},
-			{
-			    "storycode": "act9mini_st05",
-				"name": "萨卡兹劫匪"
-			}
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "游击队萨卡兹"
+				},
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "萨卡兹劫匪"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_055"{
 			"imgkey": "avg_npc_055",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "赦罪师"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "赦罪师"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_059"{
 			"imgkey": "avg_npc_059",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "Guard"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "Guard"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_061"{
 			"imgkey": "avg_npc_061",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "玛莉娅"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "玛莉娅"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "玛莉娅"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "玛莉娅"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "玛莉娅"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "玛莉娅"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "玛莉娅"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_062"{
 			"imgkey": "avg_npc_062",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "摄政王"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "摄政王"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_064_weapon"{
 			"imgkey": "avg_npc_064_weapon",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "佐菲娅"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "佐菲娅"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "佐菲娅"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "佐菲娅"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "佐菲娅"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "佐菲娅"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_068"{
 			"imgkey": "avg_npc_068",
 			"usename": [
-			    "storycode": "story_amgoat_1_1",
-				"name": "向导"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_amgoat_1_1",
+					"name": "向导"
+				}
 			]
 			},
 			"avg_npc_080"{
 			"imgkey": "avg_npc_080",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "整合运动士兵"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "整合运动士兵"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_088"{
 			"imgkey": "avg_npc_088",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "后勤干员"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "后勤干员"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_089"{
 			"imgkey": "avg_npc_089",
 			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "干员碎纸机"
-			},
-			{
-				"storycode": "st_09-04",
-				"name": "狙击干员"
-			}
+			    "main": {
+		    		{
+		    		    "storycode": "main_09-02_end",
+		    			"name": "干员碎纸机"
+		    		},
+		    		{
+		    			"storycode": "main_09-04_BEG",
+		    			"name": "干员碎纸机"
+		    		},
+		    		{
+		    			"storycode": "main_09-08_end",
+		    			"name": "干员碎纸机"
+		    		},
+		    		{
+		    			"storycode": "main_09-10_beg",
+		    			"name": "干员碎纸机"
+		    		},
+	    			{
+	    				"storycode": "main_09-11_end",
+	    				"name": "干员碎纸机"
+	    			},
+		    		{
+		    			"storycode": "main_09-16_end",
+		    			"name": "干员碎纸机"
+		    		},
+		    		{
+		    			"storycode": "st_09-04",
+		    			"name": "狙击干员"
+		    		}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_090"{
 			"imgkey": "avg_npc_090",
 			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "干员威尔"
+			    "main": {
+		    		{
+		    		    "storycode": "main_09-02_end",
+		    			"name": "干员威尔"
+		    		},
+		    		{
+		    			"storycode": "main_09-06_end",
+		    			"name": "干员威尔"
+	    			},
+	    			{
+	    				"storycode": "main_09-10_beg",
+	    				"name": "干员威尔"
+		    		}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
+			]
 			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "干员威尔"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "干员威尔"
-			}
+			"avg_npc_101"{
+			"imgkey": "avg_npc_101",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "老工匠"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "老工匠"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "老工匠"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "老工匠"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_103"{
 			"imgkey": "avg_npc_103",
 			"usename": [
-			    "storycode": "act9mini_st04",
-				"name": "塑料骑士"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st04",
+					"name": "塑料骑士"
+				},
+				"memory": null
+			]
+			},
+			"avg_npc_103nc"{
+			"imgkey": "avg_npc_103nc",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "塑料骑士"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "瑟奇亚克"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_104"{
-			"imgkey": [
-			    "storycode": "act9mini_st02",
-				"name": "锈铜骑士"
+			"imgkey": "avg_npc_104",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_end",
+						"name": "锈铜骑士"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "锈铜骑士"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st02",
+					"name": "锈铜骑士"
+				},
+				"memory": null
+			]
+			},
+			"avg_npc_105"{
+			"imgkey": "avg_npc_105",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_end",
+					"name": "左手骑士"
+				},
+				"ministory": null,
+				"memory": null
+			]
+			},
+			"avg_npc_107"{
+			"imgkey": "avg_npc_107",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "光头马丁"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "光头马丁"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "光头马丁"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_108"{
 			"imgkey": "avg_npc_108",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "玛恩纳"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "玛恩纳"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "玛恩纳"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "玛恩纳"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_109"{
 			"imgkey": "avg_npc_109",
 			"usename": [
-			{
-			    "storycode": "act9mini_st05",
-				"name": "发言人马克维茨"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+			    	{
+			    	    "storycode": "act9mini_st05",
+			    		"name": "发言人马克维茨"
+			    	},
+		    		{
+		    			"storycode": "act9mini_st06",
+		    			"name": "企业员工"
+		    		}
+				},
+				"memory": null
+			]
 			},
-			{
-				"storycode": "act9mini_st06",
-				"name": "企业员工"
-			}
+			"avg_npc_120"{
+			"imgkey": "avg_npc_120",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_end",
+						"name": "老骑士"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "老骑士"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "老骑士"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_121"{
 			"imgkey": "avg_npc_121",
-			"usename" [
-			    "storycode": "act9mini_st02",
-				"name": "大嘴莫布"
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "大嘴莫布"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "大嘴莫布"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st02",
+					"name": "大嘴莫布"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_122"{
 			"imgkey": "avg_npc_122",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": "索娜"
-			},
-			{
-				"storycode": "act9mini_st02",
-				"name": "索娜"
-			},
-			{
-				"storycode": "act9mini_st03",
-				"name": "索娜"
-			},
-			{
-				"storycode": "act9mini_st04",
-				"name": [
-				    "？？？",
-					"焰尾骑士"
-				]
-			}
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "索娜"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "索娜"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "索娜"
+					}
+				},
+				"ministory": {
+	    			{
+	    			    "storycode": "act9mini_st01",
+	    				"name": "索娜"
+	    			},
+	    			{
+	    				"storycode": "act9mini_st02",
+	    				"name": "索娜"
+		    		},
+		    		{
+	    				"storycode": "act9mini_st03",
+	    				"name": "索娜"
+	    			},
+	    			{
+		    			"storycode": "act9mini_st04",
+		    			"name": [
+		    			    "？？？",
+		    				"焰尾骑士"
+		    			]
+		    		}
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_123"{
 			"imgkey": "avg_npc_123",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "冷漠的骑士",
-					"格蕾纳蒂"
-				]
-			},
-			{
-				"storycode": "act9mini_st02",
-				"name": "格蕾纳蒂"
-			},
-			{
-				"storycode": "act9mini_st03",
-				"name": "格蕾纳蒂"
-			},
-			{
-				"storycode": "act9mini_st04",
-				"name": [
-				    "？？？",
-					"灰毫骑士"
-				]
-			}
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "格蕾纳蒂"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "格蕾纳蒂"
+					}
+				},
+				"ministory": {
+		    		{
+		    		    "storycode": "act9mini_st01",
+		    			"name": [
+		    			    "冷漠的骑士",
+		    				"格蕾纳蒂"
+		    			]
+		    		},
+		    		{
+		    			"storycode": "act9mini_st02",
+		    			"name": "格蕾纳蒂"
+		    		},
+		    		{
+		    			"storycode": "act9mini_st03",
+		    			"name": "格蕾纳蒂"
+		    		},
+		    		{
+		    			"storycode": "act9mini_st04",
+		    			"name": [
+		    			    "？？？",
+		    				"灰毫骑士"
+		    			]
+		    		}
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_156"{
 			"imgkey": "avg_npc_156",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "雷蛇"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "雷蛇"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_175"{
 			"imgkey": "avg_npc_175",
 			"usename": [
-			{
-			    "storycode": "main_09-04_END",
-				"name": "附庸风雅的女贵族"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "附庸风雅的女贵族"
-			}
+			    "main": {
+		    		{
+		    		    "storycode": "main_09-04_END",
+		    			"name": "附庸风雅的女贵族"
+		    		},
+		    		{
+		    			"storycode": "main_09-05_BEG",
+		    			"name": "附庸风雅的女贵族"
+		    		}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_176"{
 			"imgkey": "avg_npc_176",
 			"usename": [
-			{
-			    "storycode": "main_09-04_END",
-				"name": "贪婪的商人"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "贪婪的商人"
-			}
+			    "main": {
+		    		{
+		    		    "storycode": "main_09-04_END",
+		    			"name": "贪婪的商人"
+		    		},
+		    		{
+		    			"storycode": "main_09-05_BEG",
+		    			"name": "贪婪的商人"
+		    		}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_177"{
 			"imgkey": "avg_npc_177",
 			"usename":[
-			{
-			    "storycode": "main_09-04_END",
-				"name": "野心勃勃的男爵"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "野心勃勃的男爵"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "野心勃勃的男爵"
-			}
+			    "main": {
+	    			{
+			    	    "storycode": "main_09-04_END",
+			    		"name": "野心勃勃的男爵"
+			    	},
+			    	{
+			    		"storycode": "main_09-05_BEG",
+			    		"name": "野心勃勃的男爵"
+			    	},
+			    	{
+			    		"storycode": "main_09-06_end",
+			    		"name": "野心勃勃的男爵"
+		    		}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_190"{
@@ -658,604 +1138,946 @@
 			},
 			"avg_npc_208"{
 			"imgkey": "avg_npc_208",
-			"usename": []
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_end",
+					"name": "？？？"
+				},
+				"ministory": null,
+				"memory": null
+			]
 			},
 			"avg_npc_209"{
 			"imgkey": "avg_npc_209",
 			"usename": [
-			    "storycode": "act9mini_st07",
-				"name": "“青金”"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": [
+					        "？？？",
+						    "罗伊"
+					    ]
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "罗伊"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st07",
+					"name": "“青金”"
+				},
+				"memory": null
+			]
+			},
+			"avg_npc_210"{
+			"imgkey": "avg_npc_210",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "年长的骑士"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "老骑士"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_211"{
 			"imgkey": "avg_npc_211",
 			"usename": [
-			    "storycode": "act9mini_st06",
-				"name": "马克维茨"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "发言人马克维茨"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "发言人马克维茨"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "发言人马克维茨"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st06",
+					"name": "马克维茨"
+				},
+				"memory": null
+			]
+			},
+			"avg_npc_212"{
+			"imgkey": "avg_npc_212",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "发言人麦基"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "发言人麦基"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "发言人麦基"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "发言人麦基"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_213"{
 			"imgkey": "avg_npc_213",
 			"usename": [
-			{
-			    "storycode": "main_09-04_BEG",
-				"name": "西尔莎"
+			    "main": {
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "西尔莎"
+					},
+					{
+						"storycode": "st_09-02",
+						"name": "西尔莎"
+					}
+				},
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": [
+					        "？？？",
+						    "托兰"
+						]
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "托兰"
+					}
+				},
+				"ministory": null,
+				"memory": null
+			]
 			},
-			{
-				"storycode": "st_09-02",
-				"name": "西尔莎"
-			}
+			"avg_npc_215"{
+			"imgkey": "avg_npc_215",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "德罗斯特"
+					},
+					{
+						"storycode": "act13side_01_beg",
+						"name": "烛骑士"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "烛骑士"
+					}
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_216"{
 			"imgkey": "avg_npc_216",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": "无胄盟成员"
-			},
-			{
-				"storycode": "act9mini_st04",
-				"name": "无胄盟杀手"
-			},
-			{
-				"storycode": "act9mini_st05",
-				"name": "无胄盟成员"
-			},
-			{
-				"storycode": "act9mini_st07",
-				"name": "无胄盟成员"
-			}
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_beg",
+					"name": "安保人员"
+				},
+				"ministory": {
+					{
+					    "storycode": "act9mini_st01",
+						"name": "无胄盟成员"
+					},
+					{
+						"storycode": "act9mini_st04",
+						"name": "无胄盟杀手"
+					},
+					{
+						"storycode": "act9mini_st05",
+						"name": "无胄盟成员"
+					},
+					{
+						"storycode": "act9mini_st07",
+						"name": "无胄盟成员"
+					}
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_217"{
 			"imgkey": "avg_npc_217",
 			"usename": [
-			    "storycode": "act9mini_st01",
-				"name": [
-				    "观赛的骑士A",
-					"观赛的骑士"
-				]
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "观众席上的骑士"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "正经的骑士"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st01",
+					"name": [
+					    "观赛的骑士A",
+						"观赛的骑士"
+					]
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_218"{
 			"imgkey": "avg_npc_218",
 			"usename": [
-			    "storycode": "act9mini_st01",
-				"name": "观赛的骑士B"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "捧着爆米花的骑士"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "谄媚的骑士"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st01",
+					"name": "观赛的骑士B"
+				},
+				"memory": null
+			]
+			},
+			"avg_npc_219"{
+			"imgkey": "avg_npc_219",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_beg",
+					"name": "参赛骑士"
+				},
+				"ministory": null,
+				"memory": null,
 			]
 			},
 			"avg_npc_220"{
 			"imgkey": "avg_npc_220",
 			"usename": [
-			    "storycode": "act9mini_st03",
-				"name": "红松骑士团成员"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "沧桑的骑士"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "感染者骑士"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "感染者骑士"
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st03",
+					"name": "红松骑士团成员"
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_221"{
 			"imgkey": "avg_npc_221",
 			"usename": [
-			{
-		        "storycode": "act9mini_st01",
-				"name": "感染者骑士"
-			},
-			{
-				"storycode": "act9mini_st03",
-				"name": "感染者工程师骑士"
-			}
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_01_beg",
+					"name": "沙哑的骑士"
+				},
+				"ministory": {
+		    		{
+		    	        "storycode": "act9mini_st01",
+		    			"name": "感染者骑士"
+		    		},
+		    		{
+		    			"storycode": "act9mini_st03",
+		    			"name": "感染者工程师骑士"
+		    		}
+				},
+				"memory": null
 			]
 			},
 			"avg_npc_222"{
 			"imgkey": "avg_npc_222",
 			"usename": [
-			{
-			    "storycode": "act9mini_st06",
-                "name": "企业员工"
-			},
-			{
-				"storycode": "act9mini_st07",
-				"name": "经纪人"
-			}
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_01_beg",
+						"name": "企业员工"
+					},
+					{
+						"storycode": "act13side_02_end",
+						"name": "竞技场员工"
+					}
+				},
+				"ministory": {
+					{
+					    "storycode": "act9mini_st06",
+        		        "name": "企业员工"
+					},
+					{
+						"storycode": "act9mini_st07",
+						"name": "经纪人"
+					}
+				},
+				"memory": null
             ]
 			},			
 			"avg_npc_223"{
 			"imgkey": "avg_npc_223",
 			"usename": [
-			{
-			    "storycode": "act9mini_st06",
-				"name": "工作人员"
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_beg",
+					"name": "企业员工"
+				},
+				"ministory": {
+					{
+					    "storycode": "act9mini_st06",
+						"name": "工作人员"
+					},
+					{
+						"storycode": "act9mini_st07",
+						"name": "骑探"
+					}
+				},
+				"memory": null
+			]
 			},
-			{
-				"storycode": "act9mini_st07",
-				"name": "骑探"
-			}
+			"avg_npc_225"{
+			"imgkey": "avg_npc_225",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_02_end",
+					"name": [
+					    "？？？",
+						"逐魇骑士"
+					]
+				},
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_227"{
 			"imgkey": "avg_npc_227",
 			"usename": [
-			{
-			    "storycode": "main_09-03_END",
-				"name": "汉密尔顿上校"
-			},
-			{
-				"storycode": "main_09-04_END",
-				"name": "汉密尔顿上校"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": [
-				    "汉密尔顿上校",
-					"汉密尔顿"
-			    ]
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "汉密尔顿上校"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "汉密尔顿上校"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "汉密尔顿上校"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-03_END",
+						"name": "汉密尔顿上校"
+					},
+					{
+						"storycode": "main_09-04_END",
+						"name": "汉密尔顿上校"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": [
+						    "汉密尔顿上校",
+							"汉密尔顿"
+					    ]
+					},
+					{
+						"storycode": "main_09-06_end",
+						"name": "汉密尔顿上校"
+					},
+					{
+						"storycode": "main_09-11_end",
+						"name": "汉密尔顿上校"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "汉密尔顿上校"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_228"{
 			"imgkey": "avg_npc_228",
 			"usename": [
-			{
-			    "storycode": "main_09-04_END",
-				"name": [
-				    "？？？",
-					"阿赫茉妮"
-				]
-			},
-			{
-				"storycode": "st_09-02",
-				"name": "阿赫茉妮"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "阿赫茉妮"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-04_END",
+						"name": [
+						    "？？？",
+							"阿赫茉妮"
+						]
+					},
+					{
+						"storycode": "st_09-02",
+						"name": "阿赫茉妮"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "阿赫茉妮"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_229"{
 			"imgkey": "avg_npc_229",
 			"usename": [
-			{
-				"storycode": "st_09-01",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-01_beg",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-04_END",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "号角"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "号角"
-			}
+			    "main": {
+					{
+						"storycode": "st_09-01",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-01_beg",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-03_END",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-04_END",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-06_end",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-11_end",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "号角"
+					},
+					{
+						"storycode": "main_09-17_end",
+						"name": "号角"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_231"{
 			"imgkey": "avg_npc_231",
 			"usename": [
-			{
-			    "storycode": "main_09-05_BEG",
-				"name": "“领袖”"
-			},
-			{
-				"storycode": "st_09-02",
-				"name": "“领袖”"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-05_BEG",
+						"name": "“领袖”"
+					},
+					{
+						"storycode": "st_09-02",
+						"name": "“领袖”"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_232"{
 			"imgkey": "avg_npc_232",
 			"usename": [
-			{
-			    "storycode": "main_09-12_beg",
-				"name": "重症感染者"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "重症感染者"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-12_beg",
+						"name": "重症感染者"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "重症感染者"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_233"{
 			"imgkey": "avg_npc_233",
 			"usename": [
-			{
-			    "storycode": "main_09-04_END",
-				"name": [
-				    "？？？",
-					"蔓德拉"
-				]
-			},
-			{
-				"storycode": "st_09-02",
-				"name": "蔓德拉"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "蔓德拉"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "蔓德拉"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-04_END",
+						"name": [
+						    "？？？",
+							"蔓德拉"
+						]
+					},
+					{
+						"storycode": "st_09-02",
+						"name": "蔓德拉"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "蔓德拉"
+					},
+					{
+						"storycode": "main_09-17_end",
+						"name": "蔓德拉"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_234"{
 			"imgkey": "avg_npc_234",
 			"usename": [
-			{
-			    "storycode": "main_09-12_beg",
-				"name": [
-				    "“强盗”",
-					"“毒药学者”",
-					"“会计”"
-				]
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": [
-				    "“会计”",
-					"“囚犯”"
-				]
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-12_beg",
+						"name": [
+						    "“强盗”",
+							"“毒药学者”",
+							"“会计”"
+						]
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": [
+						    "“会计”",
+							"“囚犯”"
+						]
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_235"{
 			"imgkey": "avg_npc_235",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "Misery"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "Misery"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_236"{
 			"imgkey": "avg_npc_236",
 			"usename": [
-			    "storycode": "main_09-17_beg",
-				"name": "？？？"
+			    "main": {
+					"storycode": "main_09-17_beg",
+					"name": "？？？"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_237"{
 			"imgkey": "avg_npc_237",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "杰西卡"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "杰西卡"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_238"{
 			"imgkey": "avg_npc_238",
 			"usename": [
-			{
-				"storycode": "st_09-01",
-				"name": "凯利上尉"
-			},
-			{
-				"storycode": "main_09-01_beg",
-				"name": "凯利上尉"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "凯利上尉"
-			}
+			    "main": {
+					{
+						"storycode": "st_09-01",
+						"name": "凯利上尉"
+					},
+					{
+						"storycode": "main_09-01_beg",
+						"name": "凯利上尉"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "凯利上尉"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_239"{
 			"imgkey": "avg_npc_239",
 			"usename": [
-			{
-			    "storycode": "main_09-04_END",
-				"name": "诗人威廉姆斯"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "诗人威廉姆斯"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-04_END",
+						"name": "诗人威廉姆斯"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "诗人威廉姆斯"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_240"{
 			"imgkey": "avg_npc_240",
 			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "克雷格"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "克雷格"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "克雷格"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "克雷格"
-			},
-			{
-			    "storycode": "main_09-12_beg",
-				"name": "克雷格"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-02_end",
+						"name": "克雷格"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "克雷格"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "克雷格"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "克雷格"
+					},
+					{
+					    "storycode": "main_09-12_beg",
+						"name": "克雷格"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_241"{
 			"imgkey": "avg_npc_241",
 			"usename": [
-			{
-				"storycode": "main_09-01_beg",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-03_END",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-04_END",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "维多利亚士兵"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "维多利亚士兵"
-			}
+			    "main": {
+					{
+						"storycode": "main_09-01_beg",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-03_END",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-04_END",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "维多利亚士兵"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "维多利亚士兵"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_242"{
 			"imgkey": "avg_npc_242",
 			"usename": [
-			{
-				"storycode": "st_09-01",
-				"name": "慌张的青年"
-			},
-			{
-				"storycode": "main_09-03_beg",
-				"name": "愤怒的男性"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "厨子麦克马丁"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "焦躁的青年"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": [
-				    "恐惧的青年",
-				    "受伤的青年"
-				]
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": [
-				    "痛苦的男性",
-					"忙碌的青年"
-				]
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "厨子麦克马丁"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "志愿者青年"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "畏缩的青年"
-			}
+			    "main": {
+					{
+						"storycode": "st_09-01",
+						"name": "慌张的青年"
+					},
+					{
+						"storycode": "main_09-03_beg",
+						"name": "愤怒的男性"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "厨子麦克马丁"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "焦躁的青年"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": [
+						    "恐惧的青年",
+						    "受伤的青年"
+						]
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": [
+						    "痛苦的男性",
+							"忙碌的青年"
+						]
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "厨子麦克马丁"
+					},
+					{
+						"storycode": "main_09-12_beg",
+						"name": "志愿者青年"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "畏缩的青年"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_243"{
 			"imgkey": "avg_npc_243",
 			"usename": [
-			{
-			    "storycode": "main_09-03_beg",
-				"name": "悲伤的女性"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "悲伤的女性"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "悲伤的女性"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "悲伤的女性"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-03_beg",
+						"name": "悲伤的女性"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "悲伤的女性"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "悲伤的女性"
+					},
+					{
+						"storycode": "main_09-12_beg",
+						"name": "悲伤的女性"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_244"{
 			"imgkey": "avg_npc_244",
 			"usename": [
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "st_09-02",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "深池士兵"
-			},
-			{
-				"storycode": "main_09-17_beg",
-				"name": "深池士兵"
-			}
+			    "main": {
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "st_09-02",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "main_09-10_beg",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "main_09-12_beg",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "深池士兵"
+					},
+					{
+						"storycode": "main_09-17_beg",
+						"name": "深池士兵"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_245"{
 			"imgkey": "avg_npc_245",
 			"usename": [
-			{
-				"storycode": "main_09-01_beg",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-02_end",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-04_BEG",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-07_beg",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-11_end",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-12_beg",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "Outcast"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "Outcast"
-			}
+			    "main": {
+					{
+						"storycode": "main_09-01_beg",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-02_end",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-04_BEG",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-06_end",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-07_beg",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-10_beg",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-11_end",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-12_beg",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "Outcast"
+					},
+					{
+						"storycode": "main_09-17_end",
+						"name": "Outcast"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_246"{
 			"imgkey": "avg_npc_246",
 			"usename": [
-			{
-			    "storycode": "main_09-12_beg",
-				"name": "“雄辩家”"
-			},
-			{
-				"storycode": "main_09-16_end",
-				"name": "“雄辩家”"
-			},
-			{
-				"storycode": "main_09-17_end",
-				"name": "“雄辩家”"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-12_beg",
+						"name": "“雄辩家”"
+					},
+					{
+						"storycode": "main_09-16_end",
+						"name": "“雄辩家”"
+					},
+					{
+						"storycode": "main_09-17_end",
+						"name": "“雄辩家”"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_247"{
 			"imgkey": "avg_npc_247",
 			"usename": [
-			    "storycode": "main_09-12_beg",
-				"name": "“纵火家”"
+			    "main": {
+					"storycode": "main_09-12_beg",
+					"name": "“纵火家”"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"avg_npc_248"{
 			"imgkey": "avg_npc_248",
 			"usename": [
-			{
-			    "storycode": "main_09-01_beg",
-				"name": "副官希尔"
-			},
-			{
-				"storycode": "main_09-05_BEG",
-				"name": "副官希尔"
-			},
-			{
-				"storycode": "main_09-06_end",
-				"name": "副官希尔"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "副官希尔"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-01_beg",
+						"name": "副官希尔"
+					},
+					{
+						"storycode": "main_09-05_BEG",
+						"name": "副官希尔"
+					},
+					{
+						"storycode": "main_09-06_end",
+						"name": "副官希尔"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "副官希尔"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			}
 		},
@@ -1263,109 +2085,162 @@
 			"char_002_amiya"{
 			"imgkey": "char_002_amiya",
 			"usename": [
-			{
-				"storycode": "st_09-04",
-				"name": "阿米娅"
-			},
-			{
-			    "storycode": "act9mini_st05",
-				"name": "阿米娅"
-			}
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "阿米娅"
+				},
+				"sidestory": {
+					"storycode": "act13side_st_01",
+					"name": "阿米娅"
+				},
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "阿米娅"
+				},
+				"memory": null
 			]
 			},
 			"char_003_kalts"{
 			"imgkey": "char_003_kalts",
 			"usename": [
-			{
-			    "storycode": "st_09-03",
-				"name": "凯尔希"
-			},
-			{
-				"storycode": "st_09-04",
-				"name": "凯尔希"
-			}
+			    "main": {
+					{
+					    "storycode": "st_09-03",
+						"name": "凯尔希"
+					},
+					{
+						"storycode": "st_09-04",
+						"name": "凯尔希"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_007_closre"{
 			"imgkey": "char_007_closre",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "可露希尔"
+			    "main": {
+			   		"storycode": "st_09-04",
+					"name": "可露希尔"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_009_12fce"{
 			"imgkey": "char_009_12fce",
 			"usename": [
-			    "storycode": "story_12fce_1_1",
-				"name": [
-				    "？？？",
-					"46A",
-					"12F"
-				]
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_12fce_1_1",
+					"name": [
+					    "？？？",
+						"46A",
+						"12F"
+					]
+				}
 			]
 			},
 			"char_010_chen"{
 			"imgkey": "char_010_chen",
 			"usename": [
-			{
-			    "storycode": "st_09-03",
-				"name": "陈"
-			},
-			{
-				"storycode": "st_09-04",
-				"name": "陈"
-			}
+			    "main": {
+					{
+					    "storycode": "st_09-03",
+						"name": "陈"
+					},
+					{
+						"storycode": "st_09-04",
+						"name": "陈"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_011_talula"{
 			"imgkey": "char_011_talula",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "塔露拉"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "塔露拉"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_013_riop"{
 		    "imgkey": "char_013_riop",
 			"usename": [
-			{
-			    "storycode": "main_09-02_end",
-				"name": "干员奥利弗"
-			},
-			{
-				"storycode": "main_09-08_end",
-				"name": "干员奥利弗"
-			},
-			{
-				"storycode": "main_09-10_beg",
-				"name": "干员奥利弗"
-			}
+			    "main": {
+					{
+					    "storycode": "main_09-02_end",
+						"name": "干员奥利弗"
+					},
+					{
+						"storycode": "main_09-08_end",
+						"name": "干员奥利弗"
+					},
+					{
+						"storycode": "main_09-10_beg",
+						"name": "干员奥利弗"
+					}
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_016_medic"{
 			"imgkey": "char_016_medic",
 			"usename": [
-			{
-			    "storycode": "st_09-04",
-				"name": "医疗干员"
-			},
-			{
-				"storycode": "story_amgoat_1_1",
-				"name": "医疗干员"
-			}
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "医疗干员"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+						"storycode": "story_amgoat_1_1",
+						"name": "医疗干员"
+					},
+					{
+						"storycode": "story_ardign_1_1",
+						"name": "医疗干员"
+					}
+				}
 			]
 			},
 			"char_017_homura"{
 			"imgkey": "char_017_homura",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "煌"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "煌"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_101_sora"{
 			"imgkey": "char_101_sora",
 			"usename": [
-			    "storycode": "story_angel_1_1",
-				"name": "空"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_angel_1_1",
+					"name": "空"
+				}
 			]
 			},
 			"char_101_sora_summer"{
@@ -1375,57 +2250,125 @@
 			"char_102_texas"{
 			"imgkey": "char_102_texas",
 			"usename": [
-			    "storycode": "story_angel_1_1",
-				"name": "德克萨斯"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_angel_1_1",
+					"name": "德克萨斯"
+				}
 			]
 			},
 			"char_103_angel"{
 			"imgkey": "char_103_angel",
 			"usename": [
-			    "storycode": "story_angel_1_1",
-				"name": "能天使"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_angel_1_1",
+					"name": "能天使"
+				}
 			]
 			},
 			"char_105_emper"{
 			"imgkey": "char_105_emper",
 			"usename": [
-			    "storycode": "story_angel_1_1",
-				"name": "大帝"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_angel_1_1",
+					"name": "大帝"
+				}
 			]
 			},
 			"char_112_seige"{
 			"imgkey": "char_112_seige",
 			"usename": [
-			    "storycode": "st_09-03",
-				"name": "推进之王"
+			    "main": {
+					"storycode": "st_09-03",
+					"name": "推进之王"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_147_shining"{
 			"imgkey": "char_147_shining",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "闪灵"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "闪灵"
+				},
+				"memory": null
 			]
 			},
 			"char_148_nearl"{
 		    "imgkey": "char_148_nearl",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "玛嘉烈"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "玛嘉烈"
+				},
+				"memory": null
 			]
 			},
 			"char_148_nearl_ns"{
 			"imgkey": "char_148_nearl_ns",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "玛嘉烈"
+			    "main": null,
+				"sidestory": {
+					{
+						"storycode": "act13side_st_01",
+						"name": "玛嘉烈"
+					},
+					{
+						"storycode": "act13side_01_end",
+						"name": "玛嘉烈"
+					},
+					{
+						"storycode": "act13side_02_beg",
+						"name": "玛嘉烈“
+					}
+				},
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "玛嘉烈"
+				},
+				"memory": null
 			]
 			},
 			"char_158_milu"{
 			"imgkey": "char_158_milu",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "守林人"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "守林人"
+				},
+				"memory": null
+			]
+			},
+			"char_171_bldsk"{
+			"imgkey": "char_171_bldsk",
+			"usename": [
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_bldsk_1_1",
+					"name": [
+					    "？？？",
+						"华法琳"
+					]
+				}
 			]
 			},
 			"char_174_slbell"{
@@ -1435,21 +2378,31 @@
 			"char_179_cgbird"{
 			"imgkey": "char_179_cgbird",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "夜莺"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "夜莺"
+				},
+				"memory": null
 			]
 			},
 			"char_180_amgoat"{
 			"imgkey": "char_180_amgoat",
 			"usename": [
-			{
-			    "storycode": "story_amgoat_1_1",
-				"name": "艾雅法拉"
-			},
-			{
-				"storycode": "story_amgoat_2_1",
-				"name": "艾雅法拉"
-			}
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+					    "storycode": "story_amgoat_1_1",
+						"name": "艾雅法拉"
+					},
+					{
+						"storycode": "story_amgoat_2_1",
+						"name": "艾雅法拉"
+					}
+				}
 			]
 			},
 			"char_181_flower"{
@@ -1459,93 +2412,174 @@
 			"char_201_moeshd"{
 			"imgkey": "char_201_moeshd",
 			"usename": [
-			{
-			    "storycode": "story_aglina_1_1",
-				"name": "可颂"
-			},
-			{
-				"storycode": "story_aglina_1_2",
-				"name": "可颂"
-			},
-			{
-				"storycode": "story_angel_1_1",
-				"name": "可颂"
-			}
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+					    "storycode": "story_aglina_1_1",
+						"name": "可颂"
+					},
+					{
+						"storycode": "story_aglina_1_2",
+						"name": "可颂"
+					},
+					{
+						"storycode": "story_angel_1_1",
+						"name": "可颂"
+					}
+				}
 			]
 			},
 			"char_204_platnm"{
 			"imgkey": "char_204_platnm",
 			"usename": [
-			{
-			    "storycode": "act9mini_st01",
-				"name": "白金"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					{
+					    "storycode": "act9mini_st01",
+						"name": "白金"
+					},
+					{
+						"storycode": "act9mini_st05",
+						"name": "白金"
+					},
+					{
+						"storycode": "act9mini_st07",
+						"name": "欣特莱雅"
+					}
+				},
+				"memory": null
+			]
 			},
-			{
-				"storycode": "act9mini_st05",
-				"name": "白金"
+			"char_204na_platnm"{
+			"imgkey": "char_204na_platnm",
+			"usename": [
+			    "main": null,
+				"sidestory": {
+					"storycode": "act13side_st_01",
+					"name": "白金"
+				},
+				"ministory": null,
+				"memory": null
+			]
 			},
-			{
-				"storycode": "act9mini_st07",
-				"name": "欣特莱雅"
-			}
+			"char_209_ardign"{
+			"imgkey": "char_209_ardign",
+			"usename": [
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_ardign_1_1",
+					"name": "梅莉"
+				}
+			]
+			},
+			"char_210_stward"{
+			"imgkey": "char_210_stward",
+			"usename": [
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_ardign_1_1",
+					"name": "史都华德"
+				}
 			]
 			},
 			"char_291_aglina"{
 			"imgkey": "char_291_aglina",
 			"usename": [
-			{
-			    "storycode": "story_aglina_1_1",
-				"name": "安洁莉娜"
-			},
-			{
-				"storycode": "story_aglina_1_2",
-				"name": "安洁莉娜"
-			}
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					{
+					    "storycode": "story_aglina_1_1",
+						"name": "安洁莉娜"
+					},
+					{
+						"storycode": "story_aglina_1_2",
+						"name": "安洁莉娜"
+					}
+				}
 			]
 			},
 			"char_348_ceylon"{
 			"imgkey": "char_348_ceylon",
 			"usename": [
-			    "storycode": "story_amgoat_1_1",
-				"name": "锡兰"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_amgoat_1_1",
+					"name": "锡兰"
+				}
 			]
 			},
 			"char_358_lisa"{
 			"imgkey": "char_358_lisa",
 			"usename": [
-			    "storycode": "story_aglina_1_2",
-				"name": "铃兰"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_aglina_1_2",
+					"name": "铃兰"
+				}
 			]
 			},
 			"char_503_rang"{
 			"imgkey": "char_503_rang",
 			"usename": [
-			    "storycode": "story_12fce_1_1",
-				"name": "巡林者"
+			    "main": null,
+				"sidestory": null,
+				"ministory": null,
+				"memory": {
+					"storycode": "story_12fce_1_1",
+					"name": "巡林者"
+				}
 			]
 			},
 			"char_1002_nsabr"{
 			"imgkey": "char_1002_nsabr",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": [
-				    "整合运动士兵",
-					"整合运动战士"
-				]
+			    "main": {
+					"storycode": "st_09-04",
+					"name": [
+					    "整合运动士兵",
+						"整合运动战士"
+					]
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_1011_wizard"{
 			"imgkey": "char_1011_wizard",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "整合运动术师"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "整合运动术师"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			},
 			"char_1507_Mephisto"{
 			"imgkey": "char_1507_Mephisto",
 			"usename": [
-			    "storycode": "act9mini_st05",
-				"name": "梅菲斯特"
+			    "main": null,
+				"sidestory": null,
+				"ministory": {
+					"storycode": "act9mini_st05",
+					"name": "梅菲斯特"
+				},
+				"memory": null
 			]
 			}
 		},
@@ -1553,8 +2587,13 @@
 			"npc_10002"{
 			"imgkey": "npc_10002",
 			"usename": [
-			    "storycode": "st_09-04",
-				"name": "Mon3tr"
+			    "main": {
+					"storycode": "st_09-04",
+					"name": "Mon3tr"
+				},
+				"sidestory": null,
+				"ministory": null,
+				"memory": null
 			]
 			}
 		}
