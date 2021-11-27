@@ -1,4 +1,4 @@
-
+<p align="center"><img width="500" src="https://raw.githubusercontent.com/555me/ArknightsAvgImg/main/assets/akavgImg_title.png" alt="明日方舟立绘用途一览logo"></p>
 <br/>
 <br/>
 <h1 align="center">ArknightsAvgImg</h1>
